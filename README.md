@@ -27,6 +27,7 @@ Install all dependencies using the following command:
 bash
 Kodu kopyala
 pip install -r requirements.txt
+bash
 Additional Requirements
 Place the Analytes Indices.xlsx file in the project directory. This file is essential for data processing.
 Usage
