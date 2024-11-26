@@ -33,7 +33,7 @@ Usage
 Clone the Repository
 bash
 Kodu kopyala
-git clone https://github.com/yourusername/project-name.git
+git clone https://github.com/ecamdr/PBRTQC.git
 cd project-name
 Run the Application
 bash
